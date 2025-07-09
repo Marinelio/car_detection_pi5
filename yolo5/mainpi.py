@@ -1,0 +1,1 @@
+python3 detect.py --weights /home/pi/my_models/best.pt --img 416 --conf 0.25 --source "car.mp4"
